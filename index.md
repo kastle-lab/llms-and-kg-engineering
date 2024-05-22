@@ -9,7 +9,11 @@ The purpose of this symposium is to draw together the disparate efforts, events,
 
 ## Emerging Events
 * [2nd Workshop on Knowledge Base Construction from Pre-Trained Language Models  ](https://lm-kbc.github.io/workshop2024/)
-* [1st Workshop on Knowledge Graphs and Large Language Models])https://kallmworkshop.github.io/kallm2024/)
+  * Co-located with ISWC 2024, Baltimore, USA (Nov 11 or 12, 2024)
+* [1st Workshop on Knowledge Graphs and Large Language Models](https://kallmworkshop.github.io/kallm2024/)
+  * Co-located with ACL 2024, Bangkok, Thailand (Aug 15, 2024)
+* [(Actual) Neurosymbolic AI: Combining Deep Learning and Knowledge Graphs](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25291)
+  * Dagstuhl Seminar (Jul 13 – Jul 18, 2025)
 
 ## Attributions
 * Our draft logo is sourced from icons (not so cleverly) combined from [Grafixpoint](https://www.flaticon.com/authors/grafixpoint) (the KG) and [Max.icons](https://www.flaticon.com/authors/maxicons) (the shouting mouth).
