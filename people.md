@@ -85,6 +85,7 @@
 * Maaike de Boer
 * Maria-Ester Vidal
 * Maribel Acosta
+* Marshall X. Ma
 * Marta Sabou
 * Martin Atzmueller
 * Md Kamruzzaman Sarker
@@ -99,6 +100,7 @@
 * Nikolas Dickinson
 * Nikos Trokanas
 * Nitisha Jain
+* Osama Zaki
 * Oscar Corcho
 * Paco Nathan
 * Pasquale Minervini
