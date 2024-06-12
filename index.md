@@ -1,5 +1,5 @@
 # Welcome!
-This page is a placeholder for the (proposed) AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering. 
+This page is for the AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering. More information is forthcoming as the schedule and other details are settled.
 
 The purpose of this symposium is to draw together the disparate efforts, events, and organizers in this space and to provide a common platform for coordinating research activities more broadly and facilitate the exchange of cutting edge research and results.
 
