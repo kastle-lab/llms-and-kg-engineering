@@ -17,9 +17,10 @@ The goal of this symposium to focus and coordinate research. We wish to create a
 The program will consist of presentations of accepted full papers, posters, lightning talks, keynotes, and significant time for panel and plenary discussions.
 
 **Submission** of papers:
-Full papers (for oral presentation): 8-10 pages (not counting references).
-Short papers (for poster presentation): 3-4 pages (not counting references).
-Lightning talks (for brief spotlight presentation): 1-2 pages extended abstract (not counting references). 
+* Full papers (for oral presentation): 8-10 pages (not counting references).
+* Short papers (for poster presentation): 3-4 pages (not counting references).
+* Lightning talks (for brief spotlight presentation): 1-2 pages extended abstract (not counting references).
+
 Submissions are to be made via the official AAAI Symposium Easychair site. 
 
 **Symposium Committee**:
