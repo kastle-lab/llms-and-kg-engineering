@@ -5,7 +5,7 @@
 * Cogan Shimizu
 
 ## Keynote Speakers
-* Alessandro Oltremari
+* Alessandro Oltramari
 
 ## Potential Participants
 * Abhilekha Dalal
