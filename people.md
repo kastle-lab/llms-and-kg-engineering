@@ -80,6 +80,7 @@
 * Kai-Uwe Kuehnberger
 * Ke Dong
 * Kiril Gashteovski
+* Krishnaprasad Thirunarayan
 * Krzysztof Janowicz
 * Lise Stork
 * Maaike de Boer
@@ -123,7 +124,6 @@
 * Srividya Bansal
 * Steffen Staab
 * Tarek Besold
-* TK Prasad
 * Torsten Hahmann 
 * Ute Schmid
 * Volker Tresp
