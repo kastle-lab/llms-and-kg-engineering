@@ -4,7 +4,7 @@ This page is for the AAAI Fall Symposium on Large Language Models for Knowledge 
 The purpose of this symposium is to draw together the disparate efforts, events, and organizers in this space and to provide a common platform for coordinating research activities more broadly and facilitate the exchange of cutting edge research and results.
 
 ## Recent News
-* Alessandro Oltemari confirmed for Keynote Speaker!
+* Alessandro Oltramari confirmed for Keynote Speaker!
 * Organizing Committee established: Pascal Hitzler, Andrea Nuzzolese, Catia Pesquita, Cogan Shimizu
 
 ## Emerging Events
