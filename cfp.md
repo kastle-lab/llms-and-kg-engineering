@@ -21,7 +21,7 @@ The program will consist of presentations of accepted full papers, posters, ligh
 * Short papers (for poster presentation): 3-4 pages (not counting references).
 * Lightning talks (for brief spotlight presentation): 1-2 pages extended abstract (not counting references).
 
-Submissions are to be made via the official AAAI Symposium Easychair site. 
+Submissions are to be made via the [official AAAI Symposium Easychair submission portal](https://easychair.org/my/conference?conf=fss24). You must choose from the appropriate symposia from the available tracks.
 
 **Symposium Committee**:
 Pascal Hitzler, Kansas State University, USA (hitzler@ksu.edu)
