@@ -1,9 +1,10 @@
 # Welcome!
-This page is for the AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering. More information is forthcoming as the schedule and other details are settled.
+This page is for the [AAAI Fall Symposium](https://aaai.org/conference/fall-symposia/fss24/) on Large Language Models for Knowledge Graph and Ontology Engineering. More information is forthcoming as the schedule and other details are settled.
 
 The purpose of this symposium is to draw together the disparate efforts, events, and organizers in this space and to provide a common platform for coordinating research activities more broadly and facilitate the exchange of cutting edge research and results.
 
 ## Recent News
+* [Call for Papers](./cfp) with Submission Instructions released!
 * Alessandro Oltramari confirmed for Keynote Speaker!
 * Organizing Committee established: Pascal Hitzler, Andrea Nuzzolese, Catia Pesquita, Cogan Shimizu
 
