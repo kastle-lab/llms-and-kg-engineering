@@ -24,7 +24,7 @@ The program will consist of presentations of accepted full papers, posters, ligh
 Submissions are to be made via the [official AAAI Symposium Easychair submission portal](https://easychair.org/my/conference?conf=fss24). You must choose from the appropriate symposia from the available tracks.
 
 **Symposium Committee**:
-Pascal Hitzler, Kansas State University, USA (hitzler@ksu.edu)
-Andrea Nuzzolese, CNR, Italy (andrea.nuzzolese@gmail.com)
-Catia Pesquita, Universidade de Lisboa, Portugal (clpesquita@fc.ul.pt)
-Cogan Shimizu, Wright State University (cogan.shimizu@wright.edu)
+* Pascal Hitzler, Kansas State University, USA (hitzler@ksu.edu)
+* Andrea Nuzzolese, CNR, Italy (andrea.nuzzolese@gmail.com)
+* Catia Pesquita, Universidade de Lisboa, Portugal (clpesquita@fc.ul.pt)
+* Cogan Shimizu, Wright State University (cogan.shimizu@wright.edu)
