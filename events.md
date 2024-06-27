@@ -1,4 +1,6 @@
-## Emerging Events
+## Related Events
+
+### Upcoming
 * [LKM2024: The First International OpenKG Workshop](https://lkm2024.openkg.org/)
   * Co-located with IJCAI 2024, Jeju Island, South Korea (Aug 3, 2024)
 * [1st Workshop on Knowledge Graphs and Large Language Models](https://kallmworkshop.github.io/kallm2024/)
