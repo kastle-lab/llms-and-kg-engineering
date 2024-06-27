@@ -1,3 +1,3 @@
-## Tentative Program
+## Program
 
 TBD
