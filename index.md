@@ -3,7 +3,7 @@ This page is for the [AAAI Fall Symposium](https://aaai.org/conference/fall-symp
 
 The purpose of this symposium is to draw together the disparate efforts, events, and organizers in this space and to provide a common platform for coordinating research activities more broadly and facilitate the exchange of cutting edge research and results.
 
-## [Call for Papers](./cfp)
+## [Call for Papers -- Deadline 07/31/24](./cfp)
 
 ## Recent News
 * [Call for Papers](./cfp) with Submission Instructions released!

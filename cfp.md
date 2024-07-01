@@ -23,6 +23,9 @@ The program will consist of presentations of accepted full papers, posters, ligh
 
 Submissions are to be made via the [official AAAI Symposium Easychair submission portal](https://easychair.org/my/conference?conf=fss24). You must choose from the appropriate symposia from the available tracks.
 
+**Important Dates** for submissions:
+* Deadline: July 31st, 2024
+
 **Concurrent Submission and Recently Published** Policy for Submission:
 It is appropriate to submit a **short paper** or **lightning talk** which is based on work submitted concurrently to another venue, as well as if it has been recently accepted for published in another venue _if and only if_ the program committee is made aware of the scenario via the comment/note system in the submission portal. Such papers will not be included in the proceedings, but will still go through a peer review process as a sanity check. This policy will allow us to drive wider discussion on our topics.
 
