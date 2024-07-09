@@ -18,6 +18,7 @@
 * Elvira Amador-Dominguez
 * Emanuel Sallinger
 * Eugene Vasserman
+* Fajar Ekaputra
 * Fernando Zhapa-Camacho
 * Gabriella Pasi
 * Guilin Qi 
@@ -27,6 +28,7 @@
 * Janna Hastings
 * Jayavanth Shenoy
 * Jennifer D'Souza
+* Juan Sequeda
 * Kaushik Roy
 * Lise Stork
 * Majlinda Llugiqi
@@ -39,6 +41,7 @@
 * Rafael Penaloza Nyssen
 * Reihaneh Amini
 * Roberto Barile
+* Roos Bakker
 * Sanaz Saki
 * Sebastian Monka
 * Shirly Stephen
