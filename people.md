@@ -21,7 +21,8 @@
 * Fajar Ekaputra
 * Fernando Zhapa-Camacho
 * Gabriella Pasi
-* Guilin Qi 
+* Guilin Qi
+* Haiqi Zhang
 * Hande McGinty
 * Ilaria Tiddi
 * Ildar Baimuratov
@@ -48,4 +49,5 @@
 * Soren Auer
 * Stefani Tsaneva
 * Tomas Schmid
-* Torsten Hahmann 
+* Torsten Hahmann
+* Zhengyuan Zhu
