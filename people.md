@@ -31,6 +31,7 @@
 * Jennifer D'Souza
 * Juan Sequeda
 * Kaushik Roy
+* Krishnaprasad Thirunarayan
 * Lise Stork
 * Majlinda Llugiqi
 * Marshall X. Ma
@@ -49,6 +50,5 @@
 * Soren Auer
 * Stefani Tsaneva
 * Tomas Schmid
-* T.K. Prasad
 * Torsten Hahmann
 * Zhengyuan Zhu
