@@ -6,6 +6,7 @@
 
 ## Keynote Speakers
 * Alessandro Oltramari
+* Mohammed J. Zaki
 
 ## Program Committee
 * Adam Shepherd
