@@ -14,7 +14,6 @@ All details (registration, venue, attendance) are available on the [AAAI 2024 Fa
 * **Registration:** [here](https://aaai.getregistered.net/2024-fall-symposium)
 
 ## Recent News
-* [Call for Papers](./cfp) with Submission Instructions released!
 * Mohammed J. Zaki confirmed for Keynote Speaker!
 * [Call for Papers](./cfp) with Submission Instructions released!
 * Alessandro Oltramari confirmed for Keynote Speaker!
