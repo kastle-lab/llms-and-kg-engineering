@@ -5,6 +5,8 @@ The purpose of this symposium is to draw together the disparate efforts, events,
 
 ## [Call for Late-breaking Presentation Abstracts](./lbcfp)
 
+## [Accepted Papers](./accepted.md)
+
 ## Event Details
 All details (registration, venue, attendance) are available on the [AAAI 2024 Fall Symposium website](https://aaai.org/conference/fall-symposia/fss24/). Please be sure to double check, as if any details change, it will be reflected there, first!
 * **Dates:** Nov 7-9, 2024
