@@ -60,4 +60,28 @@ ___
 #### *(End 17:30)*  
 ___  
 #### **18:00** — Plenary (with other Symposia)  
+___ 
+
+## Saturday, Nov 9
+
+#### **09:00** — Welcome  
 ___  
+#### **09:15** — Keynote: Valentina Tamma – *Injecting LLMs in the ontology engineering lifecycle: What we learned so far*  
+___  
+#### **10:30** — Break  
+___  
+#### **11:00** — Jayavanth – *Open Weight AI for Querying Distributed Government Knowledge Graphs*  
+___  
+#### **11:15** — Jieying Chen, Hang Dong, Jiaoyan Chen, Ian Horrocks – *Ontology Text Alignment: Aligning Textual Content to Terminological Axioms*  
+___  
+#### **11:30** — Hassan S. Al Khatib, Subash Neupane, Shaswata Mitra, Himanshu Tripathi, Sudip Mittal, Shahram Rahimi, Nina Marhamati, Sean Bozorgzad – *Large Language Models for Engineering Patient Journey Knowledge Graphs*  
+___  
+#### **11:45** — Hande McGinty – *Using OLIVE to Connect Food Informatics to Health Informatics: A Flavonoids Case Study*  
+___  
+#### **12:00** — Pascal Hitzler – *Using LLMs for Complex Ontology Alignment: Modularity is key!*  
+___  
+#### **12:15** — Buffer if needed  
+___  
+#### **12:25** — Closing remarks  
+#### *(End 12:30)*  
+___
