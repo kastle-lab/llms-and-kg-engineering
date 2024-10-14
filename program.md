@@ -2,6 +2,8 @@
 # Large Language Models for Knowledge Graph and Ontology Engineering
 ## Thursday, Nov 7
 
+--- 
+
 #### **09:00** — Welcome 
 ---
 #### **09:15** — Keynote: Alessandro Oltramari – *Neuro-Symbolic Cognitive Reasoning: From Theory to Practice* 
@@ -31,6 +33,7 @@
 ---
 
 ## Friday, Nov 8
+---
 
 #### **09:00** — Welcome  
 ___  
@@ -63,6 +66,7 @@ ___
 ___ 
 
 ## Saturday, Nov 9
+---
 
 #### **09:00** — Welcome  
 ___  
