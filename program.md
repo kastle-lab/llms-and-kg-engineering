@@ -27,5 +27,5 @@
 #### **15:30** — Break
 ---
 #### **16:00** — Address: Cogan Shimizu – *The Conversational Approach for Modular Ontology*  
-*(End 17:30)* 
+#### *(End 17:30)* 
 ---
