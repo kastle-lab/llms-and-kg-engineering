@@ -9,3 +9,9 @@
 **11:40** — Xishi Zhu, Xiaoming Guo, Shengting Cao, Shenglin Li, Jiaqi Gong – *StructuGraphRAG: Structured Document-Informed Knowledge Graphs for Retrieval-Augmented Generation*  
 **12:00** — Breakout preparation
 **12:20** — Buffer or early lunch break 
+**12:30** — Lunch 
+**14:00** — Breakout session 
+**15:15** — Reports from the breakouts
+**15:30** — Break
+**16:00** — Address: Cogan Shimizu – *The Conversational Approach for Modular Ontology*  
+*(End 17:30)* 
