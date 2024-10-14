@@ -4,8 +4,7 @@
 
 #### **09:00** — Welcome 
 ---
-#### **09:15** — Keynote: Alessandro Oltramari – *Neuro-Symbolic Cognitive 
-Reasoning: From Theory to Practice* 
+#### **09:15** — Keynote: Alessandro Oltramari – *Neuro-Symbolic Cognitive Reasoning: From Theory to Practice* 
 --- 
 #### **10:30** — Break 
 ---
