@@ -8,7 +8,7 @@
 --- 
 
 
-#### **09:00** — Welcome </br> [2024 AAAI FSS Introduction Slide Deck](https://github.com/kastle-lab/llms-and-kg-engineering/blob/master/assets/slidedecks/2024-aaai-fss-introduction.pdf)
+#### **09:00** — Welcome [2024 AAAI FSS Introduction Slide Deck](https://github.com/kastle-lab/llms-and-kg-engineering/blob/master/assets/slidedecks/2024-aaai-fss-introduction.pdf)
 ---
 #### **09:15** — Keynote: Alessandro Oltramari – *Neuro-Symbolic Cognitive Reasoning: From Theory to Practice* 
 --- 
