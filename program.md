@@ -66,8 +66,8 @@ ___
 ___  
 #### **16:00** — Breakouts continued  
 ___  
-#### **17:15** — Reports from the breakouts  
-#### *(End 17:30)*  
+#### **17:00** — Reports from the breakouts  
+#### *(End 17:20)*  
 ___  
 #### **18:00** — Plenary (with other Symposia)  
 ___ 
